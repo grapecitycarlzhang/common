@@ -1,0 +1,12 @@
+{
+    "language.title":"语言:{language}",
+    "language.en":"english",
+    "language.zh":"中文",
+    "page.footer":"任务样例 ©{year} 版权属于某人",
+    "gc.local.ok": "标题",
+    "gc.local.cancel": "取消",
+    "gc.local.submit": "提交",
+    "gc.http.bad.request":"请求失败",
+    "gc.http.not.found":"请求的资源未找到",
+    "gc.http.server.error":"服务器错误,请稍后重试."
+}

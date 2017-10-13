@@ -1,0 +1,13 @@
+{
+    "language.title":"Language:{language}",
+    "language.en":"english",
+    "language.zh":"chinese",
+    "page.footer":"ToDo Demo ©{year} Created by Somebody",
+    
+    "gc.local.ok": "Title",
+    "gc.local.cancel": "Cancel",
+    "gc.local.submit": "submit",
+    "gc.http.bad.request":"it is a bad request",
+    "gc.http.not.found":"resource which request is not found",
+    "gc.http.server.error":"Oops! We are currently experiencing a system error. Please try again later."
+}

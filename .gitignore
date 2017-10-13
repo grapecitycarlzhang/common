@@ -1,0 +1,15 @@
+node_modules/
+.idea/
+.DS_Store
+dist/
+lib/
+out/
+release/
+*.sh
+*.iml
+*.log
+slnx.sqlite
+.suo
+VSWorkspaceState.json
+.awcache
+stats.json

@@ -1,5 +1,5 @@
 {
-    "name": "grapecity-grapeleaf-common",
+    "name": "grapecity-grapeseed-common",
     "version": "1.0.0",
     "description": "Common library for GrapeLeaf React Project",
     "license": "ISC",
@@ -7,7 +7,7 @@
     "types": "./lib/index.d.ts",
     "scripts": {
         "cbp": "npm run clean && npm run build && npm publish",
-        "dcbpr": "del /F /Q *.tgz && npm run clean && npm run build && npm pack && ren *.tgz grapecity-grapeleaf-common.tgz",
+        "dcbpr": "del /F /Q *.tgz && npm run clean && npm run build && npm pack && ren *.tgz grapecity-grapeseed-common.tgz",
         "build": "tsc --outDir lib --declaration --declarationDir lib  && copyfiles -u 1 src/**/*.less src/**/*.json src/**/*.css src/**/fonts/* lib",
         "clean": "rimraf dist lib",
         "dev": "cross-env NODE_ENV=development CONFIG_FILE=dev webpack-dev-server --hot  --inline --colors --config webpack.config.js",
